@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "Nguyễn Văn A",
+  "email": "admin@demo.com",
+  "role": "admin",
+  "plan": "pro",
+  "company": {
+    "id": 1,
+    "name": "Công ty TNHH Demo",
+    "address": "123 Nguyễn Huệ, Quận 1, TP.HCM",
+    "tax_id": "0123456789",
+    "phone": "0901234567",
+    "email": "info@demo.com",
+    "logo": null
+  }
+}

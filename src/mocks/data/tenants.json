@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Công ty TNHH Alpha",
+    "slug": "alpha",
+    "plan": "pro",
+    "status": "active",
+    "created_at": "2025-01-15T08:00:00Z",
+    "users_count": 3
+  },
+  {
+    "id": 2,
+    "name": "Công ty CP Beta",
+    "slug": "beta",
+    "plan": "free",
+    "status": "active",
+    "created_at": "2025-02-20T10:00:00Z",
+    "users_count": 1
+  },
+  {
+    "id": 3,
+    "name": "Công ty TNHH Gamma",
+    "slug": "gamma",
+    "plan": "enterprise",
+    "status": "suspended",
+    "created_at": "2025-03-10T14:00:00Z",
+    "users_count": 8
+  }
+]
